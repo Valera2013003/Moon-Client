@@ -3,22 +3,21 @@
     "id": 1,
     "name": "Moon Beta 1.21.4",
     "type": "Fabric",
-    "status": "Лёгкий и быстрый чит для Minecraft 1.21.4.С регулярными обновлениями.",
-    "title": "Лёгкий и быстрый чит для Minecraft 1.21.4.С регулярными обновлениями.",
-    "description": "Чит находиться в бета тестирование!!",
-    "folder": "MoonClient",
+    "status": "Лёгкий и быстрый чит для Minecraft 1.21.4. С регулярными обновлениями.",
+    "title": "Лёгкий и быстрый чит для Minecraft 1.21.4. С регулярными обновлениями.",
+    "description": "Чит находится в бета тестировании!!",
+    "folder": "MoonClient1.21.4",
     "downloadUrl": "https://example.com/download.zip",
     "exePath": "launcher.exe"
-  }
-]
+  },
   {
     "id": 2,
     "name": "Moon Beta 1.21.11",
     "type": "Fabric",
-    "status": "Лёгкий и быстрый чит для Minecraft 1.21.11.С регулярными обновлениями.",
-    "title": "Лёгкий и быстрый чит для Minecraft 1.21.11.С регулярными обновлениями.",
-    "description": "Чит находиться в бета тестирование!!",
-    "folder": "MoonClient",
+    "status": "Лёгкий и быстрый чит для Minecraft 1.21.11. С регулярными обновлениями.",
+    "title": "Лёгкий и быстрый чит для Minecraft 1.21.11. С регулярными обновлениями.",
+    "description": "Чит находится в бета тестировании!!",
+    "folder": "MoonClient1.21.11",
     "downloadUrl": "https://example.com/download.zip",
     "exePath": "launcher.exe"
   }
