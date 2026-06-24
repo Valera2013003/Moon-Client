@@ -1,1 +1,14 @@
-{"users":{},"keys":{}}
+{
+  "users": {
+    "1": {
+      "email": "valerag160613@gmail.com",
+      "password": "MTIzNA==",
+      "id": 45432,
+      "registeredAt": "24.06.2026",
+      "hwid": "Not Linked",
+      "subEnd": "Not activated",
+      "createdAt": 1782328930247
+    }
+  },
+  "keys": {}
+}
