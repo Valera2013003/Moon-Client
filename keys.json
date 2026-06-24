@@ -75,5 +75,13 @@
     "usedBy": null,
     "usedAt": null,
     "createdAt": "2026-06-24T19:30:57.908Z"
+  },
+  "MOON-SAS7-QSEL": {
+    "days": -1,
+    "type": "lifetime",
+    "used": false,
+    "usedBy": null,
+    "usedAt": null,
+    "createdAt": "2026-06-24T19:46:18.980Z"
   }
 }
