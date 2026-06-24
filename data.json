@@ -10,5 +10,13 @@
       "createdAt": 1782328930247
     }
   },
-  "keys": {}
+  "keys": {
+    "Moon-468146": {
+      "days": 30,
+      "used": false,
+      "usedBy": null,
+      "usedAt": null,
+      "createdAt": "2026-06-24T19:24:12.944Z"
+    }
+  }
 }
