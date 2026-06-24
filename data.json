@@ -6,16 +6,16 @@
       "id": 45432,
       "registeredAt": "24.06.2026",
       "hwid": "Not Linked",
-      "subEnd": "Not activated",
+      "subEnd": "24.07.2026",
       "createdAt": 1782328930247
     }
   },
   "keys": {
     "Moon-468146": {
       "days": 30,
-      "used": false,
-      "usedBy": null,
-      "usedAt": null,
+      "used": true,
+      "usedBy": "1",
+      "usedAt": "2026-06-24T19:24:40.211Z",
       "createdAt": "2026-06-24T19:24:12.944Z"
     }
   }
