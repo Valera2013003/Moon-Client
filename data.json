@@ -28,6 +28,9 @@
     "registeredAt": "25.06.2026",
     "hwid": "Not Linked",
     "subEnd": "25.07.2026",
-    "createdAt": 1782394993670
+    "createdAt": 1782394993670,
+    "banned": true,
+    "banReason": "Тест",
+    "bannedAt": "2026-06-25T19:05:15.980Z"
   }
 }
