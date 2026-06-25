@@ -20,5 +20,14 @@
     "hwid": "Not Linked",
     "subEnd": "Not activated",
     "createdAt": 1782393677487
+  },
+  "Test2": {
+    "email": "valerag160613@gmail.com",
+    "password": "cXcxMjM=",
+    "id": 45329,
+    "registeredAt": "25.06.2026",
+    "hwid": "Not Linked",
+    "subEnd": "Not activated",
+    "createdAt": 1782394993670
   }
 }
