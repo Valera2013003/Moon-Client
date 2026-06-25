@@ -6,6 +6,9 @@
     "registeredAt": "24.06.2026",
     "hwid": "Not Linked",
     "subEnd": "Lifetime",
-    "createdAt": 1782328930247
+    "createdAt": 1782328930247,
+    "banned": true,
+    "banReason": "No reason",
+    "bannedAt": "2026-06-25T08:33:31.505Z"
   }
 }
