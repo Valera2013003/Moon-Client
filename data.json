@@ -7,8 +7,8 @@
     "hwid": "Not Linked",
     "subEnd": "Lifetime",
     "createdAt": 1782328930247,
-    "banned": false,
-    "banReason": null,
-    "bannedAt": null
+    "banned": true,
+    "banReason": "No reason",
+    "bannedAt": "2026-06-25T08:36:03.354Z"
   }
 }
