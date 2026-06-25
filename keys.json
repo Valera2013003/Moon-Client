@@ -1,9 +1,9 @@
 {
   "MOON-RTBW-1X0P": {
     "days": 30,
-    "used": false,
-    "usedBy": null,
-    "usedAt": null,
+    "used": true,
+    "usedBy": "Test2",
+    "usedAt": "2026-06-25T13:44:06.859Z",
     "createdAt": "2026-06-24T19:30:57.908Z"
   },
   "MOON-JXDB-WKFY": {
